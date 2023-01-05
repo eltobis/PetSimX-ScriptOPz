@@ -8,3 +8,4 @@ FARM AFK:FarmOP in all areas - Auto open, no animation, auto inventory auto gold
 -----------------------------------------------------------------------
 TRADE PLAZA: booth snipper - Auto message - Auto buy pet (X value) - Auto sell - anti-afk -
 always updated!
+-----------------------------------------------------------------------
